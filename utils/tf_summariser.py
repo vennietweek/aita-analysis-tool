@@ -41,7 +41,7 @@ test_summaries = batch_process_summaries(df_test['content'].tolist(), batch_size
 df_test['summary'] = test_summaries
 
 # Save the modified DataFrames to new CSV files
-df_train.to_csv("../data/balanced/train_summarised_t5.csv", index=False)
-df_test.to_csv("../data/balanced/test_summarised_t5.csv", index=False)
+df_train.to_csv("../data/summarised/train_summarised_t5.csv", index=False)
+df_test.to_csv("../data/summarised/test_summarised_t5.csv", index=False)
 
 print("Processing complete. Files saved.")
