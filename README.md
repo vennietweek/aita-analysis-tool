@@ -11,7 +11,7 @@ We will embark on a systematic exploration of diverse modelling approaches, enco
 * **Traditional ML**: Use classical machine learning algorithms such as SVM, Naive Bayes, KNN, or decision trees for classification. Data preprocessing steps include stopword removal, bag-of-words representation or TF-IDF.
 * **Ensemble Learning**: Using a mix of traditional ML + rule-based approaches to create an ensemble model. 
 * **Recurrent Neural Networks (RNNs)**: Utilize RNN architectures like LSTM or GRU to capture sequential dependencies in text data and perform classification.
-* **Transformer-based Models**: Employ transformer architectures like BERT, GPT, or RoBERTa.
+* **Transformer-based Models**: Employed a fine-tuned BERT model.
 
 
 ### Installation Instructions ###
