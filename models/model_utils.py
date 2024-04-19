@@ -27,8 +27,6 @@ def create_model(model_name, input_shape, vocab_size, embedding_dim):
         model = CNNModel(input_shape=input_shape, vocab_size=vocab_size, embedding_dim=embedding_dim)
     elif model_name == 'CNN_Attention':
         model = CNNAttentionModel(input_shape=input_shape, vocab_size=vocab_size, embedding_dim=embedding_dim)
-    elif model_name == 'Transformer':
-        model = TransformerModel(input_shape=input_shape, vocab_size=vocab_size, embedding_dim=embedding_dim)
     
     model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
     return model
