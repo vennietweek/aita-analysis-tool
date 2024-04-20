@@ -44,3 +44,9 @@ Our systematic exploration of diverse modelling approaches, encompassing both tr
   ```
   pip install -r requirements.txt
   ```
+## Members
+
+- Kiat Hui Khang [@hkkiat](https://github.com/hkkiat)
+- Lee Ming Xuan  [@lmngxn](https://github.com/lmngxn)
+- Jean Ong Hui Fang [@jeanong2](https://github.com/jeanong2)
+- Venessa Tan [@vennietweek](https://github.com/vennietweek)
