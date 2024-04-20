@@ -3,8 +3,8 @@
 Project Team 5's Submission for CS5246, taken in AY23/24 S2 at the National University of Singapore.
 
 Dataset Files : 
-- Non Summarised : Train and Test
-- Summarised with GPT2 : Train and Test
+- Non Summarised : [Train](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/balanced/train.csv) and [Test](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/balanced/test.csv)
+- Summarised with GPT2 : [Train](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/summarised/train_summarised_gpt2.csv) and [Test](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/summarised/test_summarised_gpt2.csv)
 - Summarised with PageRank : [Train (part 1)](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/train_with_pagerank_part1.csv), [Train (part 2)](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/train_with_pagerank_part2.csv) and [Test](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/test_with_pagerank.csv) 
 
 ### Objectives ###
@@ -20,7 +20,7 @@ We will embark on a systematic exploration of diverse modelling approaches, enco
 * **Traditional ML**: Use classical machine learning algorithms such as SVM, Naive Bayes, KNN, or decision trees for classification. Data preprocessing steps include stopword removal, bag-of-words representation or TF-IDF.
 * **Ensemble Learning**: Using a mix of traditional ML + rule-based approaches to create an ensemble model. 
 * **Recurrent Neural Networks (RNNs)**: Utilize RNN architectures like LSTM or GRU to capture sequential dependencies in text data and perform classification.
-* **Transformer-based Models**: Employed a fine-tuned BERT model.
+* **Transformer-based Models**: Employed a [fine-tuned BERT model](https://github.com/vennietweek/aita-analysis-tool/blob/main/models/BERT.ipynb).
 
 
 ### Installation Instructions ###
