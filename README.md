@@ -22,6 +22,13 @@ Our systematic exploration of diverse modelling approaches, encompassing both tr
 * **Recurrent and Convolutional Neural Networks**: [Bi-LSTMs, CNNs](https://github.com/vennietweek/aita-analysis-tool/blob/main/models/Neural_Networks.ipynb) to capture sequential dependencies in text data and perform classification.
 * **Transformer-based Models**: A [fine-tuned BERT model](https://github.com/vennietweek/aita-analysis-tool/blob/main/models/BERT.ipynb).
 
+## Members
+
+- Kiat Hui Khang [@hkkiat](https://github.com/hkkiat)
+- Lee Ming Xuan  [@lmngxn](https://github.com/lmngxn)
+- Jean Ong Hui Fang [@jeanong2](https://github.com/jeanong2)
+- Venessa Tan [@vennietweek](https://github.com/vennietweek)
+
 ### Installation Instructions ###
 
 1. Set up an empty folder and clone the repository into your folder
@@ -44,9 +51,4 @@ Our systematic exploration of diverse modelling approaches, encompassing both tr
   ```
   pip install -r requirements.txt
   ```
-## Members
 
-- Kiat Hui Khang [@hkkiat](https://github.com/hkkiat)
-- Lee Ming Xuan  [@lmngxn](https://github.com/lmngxn)
-- Jean Ong Hui Fang [@jeanong2](https://github.com/jeanong2)
-- Venessa Tan [@vennietweek](https://github.com/vennietweek)
