@@ -1,3 +1,12 @@
+# Morality in the Digital Age: Predictive Modelling on AITA Subreddit Posts
+
+Project Team 5's Submission for CS5246, taken in AY23/24 S2 at the National University of Singapore.
+
+Dataset Files : 
+- Non Summarised : Train and Test
+- Summarised with GPT2 : Train and Test
+- Summarised with PageRank : [Train (part 1)](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/train_with_pagerank_part1.csv), [Train (part 2)](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/train_with_pagerank_part2.csv) and [Test](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/test_with_pagerank.csv) 
+
 ### Objectives ###
 
 The "Am I the A******?" (AITA) subreddit provides a rich source of real-world scenarios where individuals seek moral guidance from an online community regarding their behaviour. In this project, we aim to develop a predictive model to anticipate the likely moral judgement (e.g., "You’re the A******" or "Not the A******") of a given situation based on the text of AITA subreddit posts.
