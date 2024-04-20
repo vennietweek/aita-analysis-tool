@@ -19,9 +19,8 @@ Our systematic exploration of diverse modelling approaches, encompassing both tr
 
 * **Traditional ML**: Deployed [classical machine learning algorithms](https://github.com/vennietweek/aita-analysis-tool/blob/main/models/TraditionalApproach.ipynb) such as SVM, Naive Bayes, KNN, or decision trees for classification. Data preprocessing steps include stopword removal, bag-of-words representation or TF-IDF.
 * **Ensemble Learning**: Using a mix of traditional ML + rule-based approaches to create an [Ensemble model](https://github.com/vennietweek/aita-analysis-tool/blob/main/models/Ensemble_Approach.ipynb). 
-* **Recurrent and Convolutional Neural Networks**: [Bi-LSTMs, CNNs](https://github.com/vennietweek/aita-analysis-tool/blob/main/models/model_architectures.py) to capture sequential dependencies in text data and perform classification.
+* **Recurrent and Convolutional Neural Networks**: [Bi-LSTMs, CNNs](https://github.com/vennietweek/aita-analysis-tool/blob/main/models/Neural_Networks.ipynb) to capture sequential dependencies in text data and perform classification.
 * **Transformer-based Models**: A [fine-tuned BERT model](https://github.com/vennietweek/aita-analysis-tool/blob/main/models/BERT.ipynb).
-
 
 ### Installation Instructions ###
 
