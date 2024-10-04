@@ -8,7 +8,11 @@ The "Am I the A******?" (AITA) subreddit provides a rich source of real-world sc
 
 The primary objective of this project is to build a predictive model capable of discerning the moral judgement associated with AITA subreddit posts. By analysing the textual content of these posts, our model will strive to accurately predict whether the individual in the scenario is perceived as acting morally or immorally by the community.
 
-## Dataset Files : 
+## Report
+
+The report for this project can be accessed here: https://drive.google.com/file/d/1kFISHVbWY9H6KmZww0oM_OK_VsLqF0Bf/view?usp=sharing
+
+## Dataset Files
 - Non Summarised : [Train](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/balanced/train.csv) and [Test](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/balanced/test.csv)
 - Summarised with GPT2 : [Train](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/summarised/train_summarised_gpt2.csv) and [Test](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/summarised/test_summarised_gpt2.csv)
 - Summarised with PageRank : [Train (part 1)](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/train_with_pagerank_part1.csv), [Train (part 2)](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/train_with_pagerank_part2.csv) and [Test](https://github.com/vennietweek/aita-analysis-tool/blob/main/data/test_with_pagerank.csv) 
